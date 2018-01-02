@@ -3,7 +3,6 @@ http://claimsid.codeplex.com/releases/view/68061
 
 # Hands-On-Labs - Release Candidate 
 
-## RELEASE NOTES
 This guide releases with Hands-On-Labs, that complements what's covered in the chapters of the book with additional content. 
 In this early package of the HOL you will find:
 
